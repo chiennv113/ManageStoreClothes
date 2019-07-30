@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".LoginActicity">
+    tools:context=".UI.LoginActicity">
 
     <android.support.constraint.Guideline
         android:id="@+id/guideline2"
@@ -58,7 +58,7 @@
             android:id="@+id/edt_username"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:drawableLeft="@drawable/password"
+            android:drawableLeft="@drawable/username"
             android:drawablePadding="16dp"
             android:hint="@string/username"
             android:inputType="text" />

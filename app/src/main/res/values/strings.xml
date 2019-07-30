@@ -24,4 +24,9 @@
     <string name="home_kho">Kho</string>
     <string name="home_banchay">Bán chạy</string>
     <string name="home_thongke">Thống kê</string>
+    <string name="title_activity_add_clothes">Nhập quần áo</string>
+    <string name="title_activity_quan_ly_kho">Quản Lý Kho</string>
+    <string name="title_activity_chi_tiet_kho">Chi Tiết Kho</string>
+    <string name="title_activity_hang_ban_chay">Hàng Bán Chạy</string>
+    <string name="title_activity_thong_ke">Thống Kê</string>
 </resources>

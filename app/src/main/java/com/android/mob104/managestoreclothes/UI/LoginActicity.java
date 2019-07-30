@@ -1,4 +1,4 @@
-package com.android.mob104.managestoreclothes;
+package com.android.mob104.managestoreclothes.UI;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -8,6 +8,8 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
+
+import com.android.mob104.managestoreclothes.R;
 
 public class LoginActicity extends AppCompatActivity implements View.OnClickListener {
 

@@ -1,9 +1,12 @@
-package com.android.mob104.managestoreclothes;
+package com.android.mob104.managestoreclothes.UI;
 
 import android.content.Intent;
 import android.os.Handler;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.android.mob104.managestoreclothes.R;
+import com.android.mob104.managestoreclothes.UI.LoginActicity;
 
 public class SplashScreen extends AppCompatActivity {
 

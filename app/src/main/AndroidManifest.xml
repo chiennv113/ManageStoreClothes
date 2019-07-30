@@ -10,14 +10,34 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name=".HomeActivity"
-            android:label="@string/title_activity_home"
+            android:name=".UI.ThongKeActivity"
+            android:label="@string/title_activity_thong_ke"
             android:theme="@style/AppTheme.NoActionBar"></activity>
         <activity
-            android:name=".LoginActicity"
+            android:name=".UI.HangBanChayActivity"
+            android:label="@string/title_activity_hang_ban_chay"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".UI.ChiTietKhoActivity"
+            android:label="@string/title_activity_chi_tiet_kho"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".UI.QuanLyKhoActivity"
+            android:label="@string/title_activity_quan_ly_kho"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".UI.AddClothesActivity"
+            android:label="@string/title_activity_add_clothes"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".UI.HomeActivity"
+            android:label="@string/title_activity_home"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".UI.LoginActicity"
             android:theme="@style/splashscreen" />
         <activity
-            android:name=".SplashScreen"
+            android:name=".UI.SplashScreen"
             android:theme="@style/splashscreen">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
